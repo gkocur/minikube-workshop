@@ -63,5 +63,5 @@ minikube stop
 # Deleting
 Kill'em all:
 ```bash
-minikune delete
+minikube delete
 ```
