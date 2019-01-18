@@ -2,7 +2,7 @@
 
 ## Using snap
 ```bash
-sudo snap install helm
+sudo snap install helm --classic
 ```
 
 ## Using binary package:
